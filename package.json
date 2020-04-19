@@ -1,0 +1,22 @@
+{
+  "name": "mongodatamigration",
+  "version": "1.0.0",
+  "description": "It's web application that migrates database from one mongo host to another",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssWitcher/mongoDataMigration.git"
+  },
+  "author": "Saurabh Shrivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssWitcher/mongoDataMigration/issues"
+  },
+  "homepage": "https://github.com/ssWitcher/mongoDataMigration#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
